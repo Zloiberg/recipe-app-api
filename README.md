@@ -9,3 +9,4 @@ Dockerized with docker compose
 
 CI\CD autotests and linting with github actions
 
+Swagger for API GUI
