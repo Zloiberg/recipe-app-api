@@ -1,6 +1,8 @@
 # recipe-app-api
 Recipe-api-django project
 
+DB PostgreSQL
+
 Test Driven Development method
 
 Creating API's with Django rest framework
